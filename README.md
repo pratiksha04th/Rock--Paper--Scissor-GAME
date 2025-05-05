@@ -11,7 +11,7 @@ A simple and fun **Stone-Paper-Scissors** game built using **HTML, CSS, and Java
 
 ## 🎮 Play Game
 
-> [🌐 Click here to play the game online](https://pratiksha04th.github.io/Rock--Paper--Scissor-GAME/)
+> [🌐 Click here to play the game online]
 
 ## 🖼️ Game UI
 
