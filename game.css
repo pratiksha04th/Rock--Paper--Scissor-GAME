@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(193, 124, 83);
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 100px;
+}
+p{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: rgb(246, 223, 223);
+    border: none;
+    border-radius: 5px;
+    font-size: 3rem;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+button:hover{
+    background-color: rgb(20, 3, 10);
+}
+#user-score{
+    color:blue;
+    font-size: 2rem;
+}
+#computer-score{
+    color: red;
+    font-size: 2rem;
+}
