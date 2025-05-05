@@ -9,8 +9,10 @@ A simple and fun **Stone-Paper-Scissors** game built using **HTML, CSS, and Java
 ✅ Score tracking  
 ✅ Computer opponent with randomized logic   
 
-## 🎮 Live Demo
+## 🎮 Play Game
 
 > [🌐 Click here to play the game online](https://pratiksha04th.github.io/Rock--Paper--Scissor-GAME/)
 
-![Stone paper Scissor game UI](Screenshot.png)
+## 🖼️ Game UI
+
+![View Game UI](Screenshot.png)
