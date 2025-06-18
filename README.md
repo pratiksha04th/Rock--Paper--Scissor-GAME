@@ -11,7 +11,7 @@ A simple and fun **Stone-Paper-Scissor** game built using **HTML, CSS, and JavaS
 
 ## 🎮 Play Game
 
-> [🌐 Click here to play the game online]()
+> [🌐 Click here to play the game online](https://rock-paper-scissor-game-five-ashy.vercel.app/)
 
 ## 🖼️ Game UI
 
